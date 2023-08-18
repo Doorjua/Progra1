@@ -1,0 +1,5 @@
+C:\Users\emmanuel.lopezram\Documents\GitHub\Progra1\CarreraAutos\bin\Debug\CarreraAutos.exe.config
+C:\Users\emmanuel.lopezram\Documents\GitHub\Progra1\CarreraAutos\bin\Debug\CarreraAutos.exe
+C:\Users\emmanuel.lopezram\Documents\GitHub\Progra1\CarreraAutos\bin\Debug\CarreraAutos.pdb
+C:\Users\emmanuel.lopezram\Documents\GitHub\Progra1\CarreraAutos\obj\Debug\CarreraAutos.exe
+C:\Users\emmanuel.lopezram\Documents\GitHub\Progra1\CarreraAutos\obj\Debug\CarreraAutos.pdb
